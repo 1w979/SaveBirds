@@ -1,0 +1,130 @@
+.wrap1{
+
+    text-align:center;
+    height: 60px;
+    width: 1500px;
+    
+}
+
+.wrap div{
+    text-align:center;
+    position: absolute;
+    min-height: 50px;
+    /*border-width: 10px;*/
+    /*border-style: solid;*/
+    /*border-color: #000;*/
+}
+.wrap .left{
+    top: 100px;
+    left: 450px;
+    width: 300px;
+    background: #ccffc1;
+    line-height: 150px;
+    
+}
+.wrap .right{   
+    left: 80px;
+    top: 120px;
+    width: 570px;
+}
+.wrap2{
+    left: 80px;
+    top: 205px;
+    width: 300px;
+    height: 380px;
+    line-height: 150px;
+    border-width:5px ;
+    border-style: groove;
+    border-color: greenyellow;
+}
+.wrap3{
+    left: 1100px;
+    top: 180px;
+    width: 300px;
+    height: 380px;
+    background: #ccffc1;
+    border-width:5px ;
+    border-style: groove;
+    border-color: greenyellow;
+}
+
+h1 {
+    font-family:sans-serif;
+    text-align: center;
+}
+
+.button {
+    left: 150px;
+    background-color: #4CAF50; /* Green */
+    width: 150px;
+    border: none;
+    color: rgb(67, 189, 97);
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 6px 60px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: rgb(122, 241, 132);
+    color: black;
+    border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.button2 {
+    background-color:  rgb(122, 241, 132);
+    color: black;
+    border: 2px solid #008CBA;
+}
+
+.button2:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+.button3 {
+    background-color:  rgb(122, 241, 132);
+    color: black;
+    border: 2px solid #f44336;
+}
+
+.button3:hover {
+    background-color: #f44336;
+    color: white;
+}
+
+.button4 {
+    background-color:  rgb(122, 241, 132);
+    color: black;
+    border: 2px solid #e7e7e7;
+}
+
+.button4:hover {background-color: #e7e7e7;}
+
+.button5 {
+    background-color:  rgb(122, 241, 132);
+    color: black;
+    border: 2px solid #555555;
+}
+
+.button5:hover {
+    background-color: #555555;
+    color: white;
+}
+.creater{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    top: 92%;
+    left:40%; 
+    text-align: center;      
+}
+
